@@ -70,7 +70,7 @@
   <a href="https://linkedin.com/in/ashutosh-panda-833466273/like-button" target="_blank">
     <img src="https://img.shields.io/badge/Like-%E2%9C%94-brightgreen" alt="Like Button">
   </a>
-  <a href="https://your-custom-site.com/comment-section" target="_blank">
+  <a href="https://instagram.com/__ashutoshpanda__//comment-section" target="_blank">
     <img src="https://img.shields.io/badge/Comment-%F0%9F%91%8D-blue" alt="Comment Button">
   </a>
 </p>
