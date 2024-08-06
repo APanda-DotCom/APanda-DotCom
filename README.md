@@ -56,17 +56,18 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=APanda-DotCom&show_icons=true&locale=en&layout=compact" alt="APanda-DotCom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APanda-DotCom&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=APanda-DotCom&show_icons=true&locale=en" alt="APanda-DotCom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=APanda-DotCom&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=APanda-DotCom&" alt="APanda-DotCom" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=APanda-DotCom&theme=jolly&date_format=j%20M%5B%20Y%5D" /></p>
+
 <p align="center">
 <img src="https://github.com/APanda-DotCom/APanda-DotCom/blob/917aaf267ed55b1a39ad5c32f908ce98a7acdd0b/github-contribution-grid-snake.svg">
 </p>
 
 <p align="center">
-  <a href="https://your-custom-site.com/like-button" target="_blank">
+  <a href="https://linkedin.com/in/ashutosh-panda-833466273.com/like-button" target="_blank">
     <img src="https://img.shields.io/badge/Like-%E2%9C%94-brightgreen" alt="Like Button">
   </a>
   <a href="https://your-custom-site.com/comment-section" target="_blank">
