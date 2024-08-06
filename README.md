@@ -61,3 +61,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apanda-datcom&show_icons=true&locale=en" alt="apanda-datcom" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanda-datcom&" alt="apanda-datcom" /></p>
+<p align="center">
+<img src="https://github.com/APanda-DotCom/APanda-DotCom/blob/917aaf267ed55b1a39ad5c32f908ce98a7acdd0b/github-contribution-grid-snake.svg">
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=apanda-datcom&pretty=true)](https://visitcount.itsvg.in)
