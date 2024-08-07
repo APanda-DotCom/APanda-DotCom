@@ -1,5 +1,4 @@
-# APanda-DotCom
-create profile 
+# APanda-DotCom 
 <h1 align="center">Hi 👋, I'm Ashutosh Panda</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <img align="right" alt="coding" width="300" hight="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
