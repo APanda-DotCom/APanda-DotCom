@@ -74,3 +74,8 @@
     <img src="https://img.shields.io/badge/Comment-%F0%9F%91%8D-blue" alt="Comment Button">
   </a>
 </p>
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/APanda-DotCom/APanda-DotCom/blob/072f62116765f80917e27f12137e24514bcc1916/github-compact.svg">
+
+</p>
